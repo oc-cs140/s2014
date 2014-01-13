@@ -8,9 +8,9 @@ files that are needed for the course.
 #### Official
 
 * [Syllabus](https://docs.google.com/document/d/1afPDl-z0UrY178aPMbr7APbow1eforJhDZEDE3JpL8I/pub)
-* [Blackboard](blackboard.olivetcollege.edu)
-* [Online Python Tutor (OPT)](pythontutor.com)
-* [python.org](python.org)
+* [Blackboard](http://blackboard.olivetcollege.edu)
+* [Online Python Tutor (OPT)](http://pythontutor.com)
+* [python.org](http://python.org)
 
 #### Optional
 
