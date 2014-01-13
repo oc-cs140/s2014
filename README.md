@@ -10,7 +10,7 @@ files that are needed for the course.
 * [Syllabus](https://docs.google.com/document/d/1afPDl-z0UrY178aPMbr7APbow1eforJhDZEDE3JpL8I/pub)
 * [Blackboard](blackboard.olivetcollege.edu)
 
-#### Tutorials
+#### Optional
 
 * [Codecademy](http://codecademy.com)
 * [Khan Academy - Computer programming](https://www.khanacademy.org/cs)
