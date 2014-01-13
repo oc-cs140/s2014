@@ -1,6 +1,6 @@
 ## CS 140: Computer Science I [Spring 2014]
 
-This repository will hold lecture notes, and any source code 
+This repository will hold lecture notes, and any source code or data
 files that are needed for the course.
 
 ### Other Links
